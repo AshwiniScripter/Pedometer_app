@@ -31,8 +31,6 @@ This app requires the following permissions:
    ```xml
    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
 
-   # **Pedometer App**  
-
 A simple Android app that counts your steps using the device's built-in step detector sensor. Stay motivated and track your steps as you move closer to your fitness goals!  
 
 ---
