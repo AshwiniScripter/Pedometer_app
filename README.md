@@ -13,8 +13,9 @@ The **Pedometer App** is a lightweight and efficient Android application designe
 
 ## **Technologies Used**  
 - **Programming Language**: Java  
+- **Framework**: Android SDK  
 - **Sensors**: Android Step Detector (`Sensor.TYPE_STEP_DETECTOR`)  
-- **UI Design**: XML Layout  
+- **UI Design**: XML for dynamic and responsive layouts  
 
 ---
 
