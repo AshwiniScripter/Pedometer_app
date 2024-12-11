@@ -5,10 +5,9 @@ The **Pedometer App** is a lightweight and efficient Android application designe
 ---
 
 ## **Features**  
-- Tracks steps in real-time using the step detector sensor.  
-- Displays the total number of steps taken.  
-- Reset button to restart the step count.  
-- User-friendly interface.  
+- **Real-Time Step Tracking**: Accurately detects and counts steps using the device's step detector sensor.  
+- **Step Reset**: Easily reset the step count to zero with the reset button.  
+- **User-Friendly Interface**: Clean and intuitive design for a seamless user experience.  
 
 ---
 
