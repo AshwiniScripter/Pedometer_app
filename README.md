@@ -20,8 +20,9 @@ The **Pedometer App** is a lightweight and efficient Android application designe
 ---
 
 ## **Requirements**  
-- Android device with a built-in step detector sensor.  
-- Minimum SDK version: 23 (Android 6.0, Marshmallow)  
+To run the app, you’ll need:  
+- An Android device with a built-in step detector sensor.  
+- Minimum SDK version: 23 (Android 6.0, Marshmallow).  
 
 ---
 
