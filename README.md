@@ -27,8 +27,8 @@ To run the app, you’ll need:
 ---
 
 ## **Permissions**  
-This app requires the following permissions:  
-1. **Activity Recognition** (for devices running Android 10 or higher):  
+This app requires access to specific device features for functionality:  
+1. **Activity Recognition** (required for devices running Android 10 or higher):  
    ```xml
    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
 
