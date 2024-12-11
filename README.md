@@ -1,6 +1,6 @@
 # **Pedometer App**  
 
-A simple Android app that counts your steps using the device's built-in step detector sensor. Stay motivated and track your steps as you move closer to your fitness goals!  
+The **Pedometer App** is a lightweight and efficient Android application designed to help you track your steps effortlessly using the device's built-in step detector sensor. Stay motivated to achieve your fitness goals by monitoring your daily activity in real time.  
 
 ---
 
