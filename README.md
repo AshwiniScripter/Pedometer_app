@@ -35,6 +35,8 @@ This app requires access to specific device features for functionality:
 A simple Android app that counts your steps using the device's built-in step detector sensor. Stay motivated and track your steps as you move closer to your fitness goals!  
 
 ---
+## License
+This project is licensed under the [MIT License](LICENSE).
 
 
 
